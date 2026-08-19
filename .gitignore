@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+.env.*
+config.php
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
